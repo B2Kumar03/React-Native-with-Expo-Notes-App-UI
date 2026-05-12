@@ -136,11 +136,4 @@ MindFlow delivers a **cohesive, offline-first note experience** on React Native 
 
 ---
 
-## References
 
-- [Expo documentation](https://docs.expo.dev/)  
-- [Expo Router](https://docs.expo.dev/router/introduction)  
-- [React Native](https://reactnative.dev/)  
-
-**Image credits:** Screenshots sourced from  
-[https://github.com/B2Kumar03/project_Image](https://github.com/B2Kumar03/project_Image) (files referenced in the URLs at the top of this document).
